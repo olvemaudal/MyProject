@@ -2,3 +2,5 @@ milk
 break
 jam
 cheese
+coffee
+sugar
