@@ -5,3 +5,4 @@ cheese
 coffee
 sugar
 coke
+juice
